@@ -1,5 +1,5 @@
-a:focus, 
-a:hover, 
+a:focus,
+a:hover,
 a:active {
 	color: #FD7800;
 }
@@ -8,8 +8,8 @@ a:active {
 	color: #FD7800;
 }
 
-a.read-more:hover { 
-	color:#FD7800; 
+a.read-more:hover {
+	color:#FD7800;
 }
 
 .linked:hover {
@@ -39,7 +39,7 @@ a.read-more:hover {
 }
 .purchase a.btn-buy:hover {
 	background:#212121;
-} 
+}
 
 /*Buttons
 ------------------------------------*/
@@ -54,7 +54,7 @@ a.read-more:hover {
 /*Service
 ------------------------------------*/
 .service i {
-	color:#FD7800;	
+	color:#FD7800;
 }
 
 /*Welcome Block*/
@@ -71,9 +71,9 @@ a.read-more:hover {
 }
 
 /*Service Blocks*/
-.service-alternative .service:hover { 
+.service-alternative .service:hover {
 	background:#FD7800;
-} 
+}
 
 /*Thumbnail (Recent Work)
 ------------------------------------*/
@@ -103,7 +103,7 @@ a.read-more:hover {
 /*Typography
 ------------------------------------*/
 /*Heading*/
-.headline h3, 
+.headline h3,
 .headline h4 {
 }
 
@@ -123,6 +123,7 @@ blockquote:hover {
 
 /*Footer
 ------------------------------------*/
+.footer{background-color: #212121;}
 .footer a,
 .copyright a,
 .footer a:hover,
@@ -138,42 +139,42 @@ blockquote:hover {
 
 /*Blog Posts
 ------------------------------------*/
-.posts .dl-horizontal:hover { 
+.posts .dl-horizontal:hover {
 	border-right:solid 2px #FD7800;
 }
-.posts .dl-horizontal a:hover { 
-	color:#FD7800; 
+.posts .dl-horizontal a:hover {
+	color:#FD7800;
 }
 .posts .dl-horizontal:hover dt img,
-.posts .dl-horizontal:hover dd a { 
+.posts .dl-horizontal:hover dd a {
 	color:#FD7800;
 	border-color:#FD7800 !important;
 }
 
 /*Tabs
 ------------------------------------*/
-.nav-tabs li.active a, 
+.nav-tabs li.active a,
 .nav-tabs li.active a:hover,
-.nav-tabs > .active > a, 
-.nav-tabs > .active > a:hover, 
-.nav-tabs > .active > a:focus { 
-	background:#FD7800; 
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover,
+.nav-tabs > .active > a:focus {
+	background:#FD7800;
 }
-.nav-tabs > li > a:hover { 
-	background:#FD7800; 
+.nav-tabs > li > a:hover {
+	background:#FD7800;
 }
-.tab-content { 
-	border-top:solid 2px #FD7800; 
+.tab-content {
+	border-top:solid 2px #FD7800;
 }
 
 /*Accardion
 ------------------------------------*/
 .acc-home a.active,
-.acc-home a.accordion-toggle:hover { 
-	color:#FD7800; 
+.acc-home a.accordion-toggle:hover {
+	color:#FD7800;
 }
-.acc-home .collapse.in { 
-	border-bottom:solid 1px #FD7800; 
+.acc-home .collapse.in {
+	border-bottom:solid 1px #FD7800;
 }
 
 /*Testimonials
@@ -201,7 +202,7 @@ blockquote:hover {
 /*Social Icons*/
 .team ul li i:hover {
 	background:#FD7800;
-}	
+}
 
 /*Pricing Page
 ------------------------------------*/
@@ -220,7 +221,7 @@ blockquote:hover {
 	background:#fbfef2;
 	border-bottom:solid 1px #f5f9e7;
 }
-	
+
 /*Pricing Content*/
 .pricing-content li {
 	border-bottom:solid 1px #f5f9e7;
@@ -254,25 +255,25 @@ blockquote:hover {
 ------------------------------------*/
 /*Right Sidebar*/
 .who li i,
-.who li:hover i, 
-.who li:hover a { 
-	color:#FD7800; 
+.who li:hover i,
+.who li:hover a {
+	color:#FD7800;
 }
 
 /*Privacy Page
 ------------------------------------*/
 .privacy a:hover {
-	color:#FD7800; 
+	color:#FD7800;
 }
 
 /*Portfolio Page
 ------------------------------------*/
-.sort li a:hover { 
-	color: #FD7800; 
-	border-bottom: 1px dotted #FD7800; 
+.sort li a:hover {
+	color: #FD7800;
+	border-bottom: 1px dotted #FD7800;
 }
-.sort li a.selected { 
-	color: #FD7800; 
+.sort li a.selected {
+	color: #FD7800;
 	border-bottom: 1px solid #FD7800;
 }
 
@@ -325,7 +326,7 @@ ul.blog-tags a:hover i {
 
 /*Icons Page
 ------------------------------------*/
-.icon-page li:hover { 
+.icon-page li:hover {
 	color:#FD7800;
 }
 
