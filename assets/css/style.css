@@ -1,3 +1,15 @@
+/*WTF FONTS?!?!?!?!*/
+/*@font-face {
+  font-family: ap;
+  src: url('../Charlemagne Regular.ttf');
+}
+
+#apfont {
+  font-family: ap;
+  font-size: 60px;
+  color: red;
+}*/
+
 
 /*Import Google Fonts*/
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
@@ -7,11 +19,19 @@
 }
 
 body {
-    padding:0;
+  padding:0;
 	color:#333;
-    font-size:16px;
-    line-height:1.6;
+  font-size:16px;
+  line-height:1.6;
 	background:#fff;
+}
+
+#products{
+  color: #555;
+  font-size: 31.5px;
+  font-family: 'Scada', sans-serif;
+  text-shadow: 0 0 1px #f6f6f6;
+  font-weight: normal !important;
 }
 
 p, a, li {
